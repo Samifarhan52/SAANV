@@ -231,7 +231,7 @@ Currently under active development with continuous feature enhancements, perform
 
 <div align="center">
 
-### 💜 SAANV — Soulfull Attractive And New Vibes
+### 💜 SAANV — Soulfull Affection And New Vibes
 "Discover Meaningful Connections"
 
 </div>
